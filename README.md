@@ -1,5 +1,5 @@
 # Cpp-language-resources
-This is an awesome project about Cpp resources. ⚡
+This is an awesome repo about Cpp resources. ⚡
 
 Resources are added frequently! ⚡
 
