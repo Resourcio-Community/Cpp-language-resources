@@ -8,8 +8,7 @@ Enjoy!
 
 ## Contributing
 
-To add, remove or change things on the list:
-[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Cpp-language-resources).
+**To add, remove or change things on the list** :- [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Cpp-language-resources).
 ---
 ## Table of Contents
 - [Books for Cpp](#books-for-cpp):blue_book:
