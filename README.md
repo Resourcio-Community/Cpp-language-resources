@@ -6,7 +6,7 @@ Resources are added frequently! ⚡
 Enjoy!
 ---
 
-## Contributing
+## Contributing:cupid:
 
 **To add, remove or change things on the list** :- [please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Cpp-language-resources).
 ---
